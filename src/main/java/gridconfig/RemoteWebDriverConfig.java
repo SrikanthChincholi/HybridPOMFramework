@@ -17,9 +17,9 @@ import org.testng.annotations.Parameters;
 /***
   * 
   * 
-  * @params 
+  *
   * @author DELL
-  * @methods : setDriver
+  *
   *
   */
 public class RemoteWebDriverConfig {
